@@ -1,0 +1,34 @@
+# Environment variables
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# API Keys - IMPORTANT!
+youtube_API/
+*.txt
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Sample data
+comments_sample*.json
+
+# Docker
+*.log
